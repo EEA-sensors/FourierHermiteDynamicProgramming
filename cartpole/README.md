@@ -14,6 +14,6 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 
   <p align="center">
    
-    <embed src="https://github.com/EEA-sensors/FourierHermiteDynamicProgramming/edit/main/cartpole/images/cartpole_cov_spdp-eps-converted-to.pdf" width="800px" height="2100px" />
+    <embed src="https://github.com/EEA-sensors/FourierHermiteDynamicProgramming/edit/main/cartpole/images/cartpole_cov_spdp-eps-converted-to.pdf" type="application/pdf" width="800px" height="2100px" />
   </p>
 </div>
