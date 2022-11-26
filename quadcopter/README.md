@@ -8,6 +8,8 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 <!-- Quadcopter trajectory -->
 
 <br />
+![Diddy Borg](./images/quadcopter_trajectory.png){ width=50% }
+
 ![Alt text](images/quadcopter_trajectory.png?raw=true "Title")
 <div align="center">
   
