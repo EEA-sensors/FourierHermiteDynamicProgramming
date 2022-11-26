@@ -9,5 +9,5 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 
 <br />
 
-![Quadcopter](./images/quadcopter_trajectory.png){ width=50% }
+![Quadcopter](./images/quadcopter_trajectory.png)
 

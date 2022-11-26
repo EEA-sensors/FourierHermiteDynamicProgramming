@@ -7,13 +7,4 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 - [x] Cartpole
 <!-- Cartpole experiment -->
 <br />
-<div align="center">
-  
-
-  <h3 align="center">Cartpole experiment</h3>
-
-  <p align="center">
-   
-    <embed src="/images/cartpole_cov_spdp-eps-converted-to.pdf" type="application/pdf" width="800px" height="2100px" />
-  </p>
-</div>
+![Cartpole](./images/cartpole_cov_spdp-eps-converted-to-1.png)

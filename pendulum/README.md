@@ -8,13 +8,4 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 
 <!-- pendulum experiment -->
 <br />
-<div align="center">
-  
-
-  <h3 align="center">Pendulum experiment</h3>
-
-  <p align="center">
-    
-    <embed src="images/pendulum_cov_spdp-eps-converted-to.pdf" width="800px" height="2100px" />
-  </p>
-</div>
+![Pendulum](./images/pendulum_cov_spdp-eps-converted-to-1.png)
