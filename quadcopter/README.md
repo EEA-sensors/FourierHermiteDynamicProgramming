@@ -6,7 +6,9 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 
 - [x] Quadcopter
 <!-- Quadcopter trajectory -->
+
 <br />
+![Alt text](./images/quadcopter_trajectory.png?raw=true "Title")
 <div align="center">
   
 
@@ -14,7 +16,7 @@ Code repository for Fourier--Hermite Dynamic Programming for Optimal Control pap
 
   <p align="center">
     
-    <img src="images/quadcopter_trajectory.png" alt="Trajectory" width="80" height="80">
+    <img src="images/quadcopter_trajectory.png" alt="Trajectory" width="80" height="80" />
   </p>
 </div>
 
